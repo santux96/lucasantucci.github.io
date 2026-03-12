@@ -24,4 +24,4 @@ Tecnologie utilizzate:
 - Security monitoring con Wazuh
 - Monitoring stack con Prometheus e Grafana
 
-➡ Vai alla sezione Projects
+➡ [Guarda quà i miei progetti!](projects.md)
